@@ -6,5 +6,7 @@
 5.[https://github.com/Pranavasai-2810/23CSBTB27-28/blob/main/BFS.ipynb]
 6.[https://github.com/Pranavasai-2810/23CSBTB27-28/blob/main/DFS.ipynb]
 7.[https://github.com/Pranavasai-2810/23CSBTB27-28/blob/main/A_STAR_ALOGORITHM.ipynb]
+8.[https://github.com/Pranavasai-2810/23CSBTB27-28/blob/main/Lab03_AIML.ipynb]
+
 
 
