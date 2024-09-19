@@ -19,7 +19,7 @@
 
 10.[https://github.com/Pranavasai-2810/23CSBTB27-28/blob/main/ASSIGNMENT_5/assignment5.ipynb]
 
-11.[
+11.[https://github.com/Pranavasai-2810/23CSBTB27-28/blob/main/Assignment6.ipynb]
 
 
 
